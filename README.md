@@ -19,7 +19,6 @@ $ git clone https://github.com/andy0699/Predicting-Black-Friday-Sales.git
 * Data Preprocessing.ipynb - Cleaning the data.
 * Model Building and Prediction.ipynb - It also contains the preprocessig part with types of regression models being run to check which gets a better accuracy.
 * BFS GUI.ipynb - A simple GUI which shows the necessary plots and Root Mean Score Error of all the models.
-* profile_report.html - Pandas Profiling Preport.
 
 # Technologies
 * Jupyter Notebook
